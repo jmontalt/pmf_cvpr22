@@ -1,0 +1,7 @@
+name: pmf
+dependencies:
+  - python=3.9
+  - pip
+  - hdf5
+  - pip:
+    - -r requirements.txt
